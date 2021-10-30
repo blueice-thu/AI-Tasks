@@ -1,0 +1,120 @@
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 8 in 0.0 seconds
+Search nodes expanded: 15
+Pacman emerges victorious! Score: 502
+Average Score: 502.0
+Scores:        502.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 8 in 0.0 seconds
+Search nodes expanded: 16
+Pacman emerges victorious! Score: 502
+Average Score: 502.0
+Scores:        502.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 8 in 0.0 seconds
+Search nodes expanded: 14
+Pacman emerges victorious! Score: 502
+Average Score: 502.0
+Scores:        502.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 37 in 0.0 seconds
+Search nodes expanded: 93
+Pacman emerges victorious! Score: 473
+Average Score: 473.0
+Scores:        473.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 19 in 0.0 seconds
+Search nodes expanded: 94
+Pacman emerges victorious! Score: 491
+Average Score: 491.0
+Scores:        491.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 19 in 0.0 seconds
+Search nodes expanded: 53
+Pacman emerges victorious! Score: 491
+Average Score: 491.0
+Scores:        491.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 246 in 0.0 seconds
+Search nodes expanded: 269
+Pacman emerges victorious! Score: 264
+Average Score: 264.0
+Scores:        264.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 275
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 224
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 466
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 620
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 549
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+=======================================
+=======================================
+=======================================
+=======================================
+=======================================
+=======================================
+=======================================
+=======================================
+=======================================
+=======================================
+=======================================
+=======================================
